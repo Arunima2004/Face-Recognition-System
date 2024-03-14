@@ -1,4 +1,4 @@
-# 1.	INTRODUCTION
+# 1.	INTRODUCTION:
    
 In recent years, advancements in computer vision and machine learning have propelled the development of sophisticated facial recognition systems. These systems, once confined to the realms of science fiction, have become increasingly prevalent in our daily lives, from unlocking smartphones to enhancing security protocols in various industries. At the core of these advancements lies the power of Python—a versatile programming language—and its libraries that offer a robust foundation for creating such systems. This report delves into the design, implementation, and evaluation of a face recognition system using Python, aiming to explore the intricacies involved in identifying individuals from images or real-time video streams. Face recognition, a subset of biometric identification, has garnered substantial attention due to its wide- ranging applications in security, surveillance, access control, and human-computer interaction. The fundamental objective of this project is to comprehend the underlying principles of facial recognition technology and harness Python's capabilities, leveraging libraries such as face recognition and os to develop an efficient and accurate system. By doing so, we aim to address challenges related to face detection, feature extraction, and recognition in varying environmental conditions. This introduction outlines the scope of the report, starting with an overview of the key components involved in facial recognition systems. Subsequently, it will discuss the methodologies utilized in the development process, including the algorithms, techniques, and ethical considerations. Additionally, it will explore the importance of face recognition technology, its implications in different sectors, and the potential for future advancements. The evolution of facial recognition technology, from its early stages to its current state, highlights the strides made in understanding human facial features, pattern recognition, and machine learning algorithms. Through this report, we aim to contribute to this field by providing insights into the construction of an effective face recognition system using Python, shedding light on both its capabilities and limitations.
  
@@ -168,7 +168,7 @@ video_cap.release() cv2.destroyAllWindows()
 Chapter5: Results and Discussion
 
 
-# 6. RESULTS AND DISCUSSION
+# 6. RESULTS AND DISCUSSION:
 1.	Performance Metrics:
 
 Accuracy: Measure the accuracy of the face recognition system in correctly identifying individuals from the test dataset.
@@ -184,7 +184,7 @@ Present the quantitative results obtained from testing the system against divers
 ![image](https://github.com/Arunima2004/Face-Recognition-System/assets/163457506/5023282e-ae56-40fd-a623-50869b437673)
 
  
-# 8. CONCLUSION AND FURTHER SCOPE
+# 8. CONCLUSION AND FURTHER SCOPE:
  
 
 In conclusion, the development and evaluation of the face recognition system using Python have yielded valuable insights into the capabilities and challenges of such technology. The system showcased commendable performance in various aspects, including accuracy, robustness, and computational efficiency, while also highlighting areas for further improvement.
