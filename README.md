@@ -182,6 +182,8 @@ Present the quantitative results obtained from testing the system against divers
 
 
 OUTPUT:
+
+
 ![image](https://github.com/Arunima2004/Face-Recognition-System/assets/163457506/5023282e-ae56-40fd-a623-50869b437673)
 
 Conclusion:
